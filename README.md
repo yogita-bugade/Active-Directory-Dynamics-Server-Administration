@@ -72,7 +72,8 @@ Follow this step-by-step process to create and manage an Active Directory enviro
 <img src="https://i.imgur.com/17Hz5Du.jpg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
-
+## Credits
+[Josh Madakor](https://github.com/joshmadakor1)
 <!--
  ```diff
 - text in red
